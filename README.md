@@ -2,7 +2,7 @@
 steven.fullhouse@gmail.com
 
 ### Employment
-* 1999-current: [Idox Software](https://www.idoxgroup.com/)
+* Since 1999: [Idox Software](https://www.idoxgroup.com/)
   * Development of Enterprise-level document management software, built on [OpenText Documentum](https://www.opentext.com/products-and-solutions/products/enterprise-content-management/documentum-platform) and [IBM FileNet](https://www.ibm.com/uk-en/products/filenet-content-manager) (C#, Java)
   * Integrations with desktop applications such as AutoCAD, MicroStation, and Microsoft Office. (C#, C)
   * Development of prototype in-house document management system & web UI (Kotlin, TypeScript, React, MinIO, Elasticsearch, Docker, Kafka)
