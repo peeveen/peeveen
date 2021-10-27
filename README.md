@@ -8,6 +8,7 @@ steven.fullhouse@gmail.com
   * Development of prototype in-house document management system & web UI (Kotlin, TypeScript, React, MinIO, Elasticsearch, Docker, Kafka)
   * Maintenance of education & healthcare web portal (PHP, JavaScript)
   * Development and maintenance of iOS, Android & UWP apps for local authority planning (C#, Xamarin, GitLab CI)
+  * Automation of packaging, curation and management of third-party components (Bash, curl, nuget)
 * 1997-1999: Sirius Seven
   * Development of desktop GIS (Geographic Information Systems) software (C++)
 
