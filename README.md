@@ -5,7 +5,7 @@ steven.fullhouse@gmail.com
 * 1999-current: [Idox Software](https://www.idoxgroup.com/)
   * Development of Enterprise-level document management software, built on [OpenText Documentum](https://www.opentext.com/products-and-solutions/products/enterprise-content-management/documentum-platform) and [IBM FileNet](https://www.ibm.com/uk-en/products/filenet-content-manager) (C#, Java)
   * Integrations with desktop applications such as AutoCAD, MicroStation, and Microsoft Office. (C#, C)
-  * Development of prototype in-house document management system & web UI (Kotlin, TypeScript, React, MinIO, Elasticsearch, Docker)
+  * Development of prototype in-house document management system & web UI (Kotlin, TypeScript, React, MinIO, Elasticsearch, Docker, Kafka)
   * Maintenance of education & healthcare web portal (PHP, JavaScript)
   * Development and maintenance of iOS, Android & UWP apps for local authority planning (C#, Xamarin, GitLab CI)
 * 1997-1999: Sirius Seven
