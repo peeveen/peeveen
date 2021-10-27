@@ -1,11 +1,6 @@
 # Steven Frew
 steven.fullhouse@gmail.com
 
-### Education
-* BSc Software Engineering (Distinction, awarded Court Medal) from University Of Paisley
-* HND Computing
-* 4 Higher grades, 7 Standard grades (including A/1 in mathematics)
-
 ### Employment
 * 1999-current: [Idox Software](https://www.idoxgroup.com/)
   * Development of Enterprise-level document management software, built on [OpenText Documentum](https://www.opentext.com/products-and-solutions/products/enterprise-content-management/documentum-platform) and [IBM FileNet](https://www.ibm.com/uk-en/products/filenet-content-manager) (C#, Java)
@@ -19,6 +14,11 @@ steven.fullhouse@gmail.com
 ### Personal projects
 * [GitHub](https://github.com/peeveen?tab=repositories)
 * [GitLab](https://gitlab.com/users/peeveen/projects)
+
+### Education
+* BSc Software Engineering (Distinction, awarded Court Medal) from University Of Paisley
+* HND Computing
+* 4 Higher grades, 7 Standard grades (including A/1 in mathematics)
 
 ### About me
 * I have been interested in software development since I was a kid, wondering "how does this work?" while playing games on my Atari 2600.
