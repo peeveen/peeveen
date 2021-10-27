@@ -17,8 +17,8 @@ steven.fullhouse@gmail.com
   * Development of desktop GIS (Geographic Information Systems) software (C++)
 
 ### Personal projects
-* [GitHub] (https://github.com/peeveen?tab=repositories)
-* [GitLab] (https://gitlab.com/users/peeveen/projects)
+* [GitHub](https://github.com/peeveen?tab=repositories)
+* [GitLab](https://gitlab.com/users/peeveen/projects)
 
 ### About me
 * I have been interested in software development since I was a kid, wondering "how does this work?" while playing games on my Atari 2600.
