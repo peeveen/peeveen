@@ -1,4 +1,5 @@
 # Steven Frew
+Renfrew, Scotland
 steven.fullhouse@gmail.com
 
 ### Employment
@@ -15,16 +16,18 @@ steven.fullhouse@gmail.com
 ### Personal projects
 * [GitHub](https://github.com/peeveen?tab=repositories)
 * [GitLab](https://gitlab.com/users/peeveen/projects)
+* One-time [contributor to MAME](https://wiki.mamedev.org/index.php/MAME_0.34b1)
 
 ### Education
 * BSc Software Engineering (Distinction, awarded Court Medal) from University Of Paisley
 * HND Computing
 * 4 Higher grades, 7 Standard grades (including A/1 in mathematics)
 
-### About me
+### Other information
 * I have been interested in software development since I was a kid, wondering "how does this work?" while playing games on my Atari 2600.
 * I tend to pick up new technologies fairly quickly. I've seen enough over the years to flatten most learning curves.
 * Lately I have become very interested in CI/CD and automation/streamlining of development processes.
+* Also 
 
 ### Hobbies & Interests
 * Videogames
