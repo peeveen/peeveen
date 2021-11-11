@@ -11,7 +11,7 @@ steven.fullhouse@gmail.com
   * Development and maintenance of iOS, Android & UWP apps for local authority planning (C#, Xamarin, GitLab CI)
   * Automation of packaging, curation and management of third-party components (Bash, curl, nuget)
 * 1997-1999: Sirius Seven
-  * Development of desktop GIS (Geographic Information Systems) software (C++)
+  * Development of desktop GIS (Geographic Information Systems) software (C++, MFC)
 
 ### Personal projects
 * [GitHub](https://github.com/peeveen?tab=repositories)
