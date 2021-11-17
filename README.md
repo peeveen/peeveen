@@ -7,11 +7,11 @@ steven.fullhouse@gmail.com
   * Development of Enterprise-level document management software, built on [OpenText Documentum](https://www.opentext.com/products-and-solutions/products/enterprise-content-management/documentum-platform) and [IBM FileNet](https://www.ibm.com/uk-en/products/filenet-content-manager) _(C#, Java, Ant, Maven)_
   * Integrations with desktop applications such as AutoCAD, MicroStation, and Microsoft Office. _(C#, C, WiX)_
   * Development of prototype in-house document management system & web UI _(Spring, Kotlin, TypeScript, Node.js, React, MinIO, PostgreSQL, GraphQL, Elasticsearch, Docker, Kafka, JOOQ)_
-  * Maintenance of education & healthcare web portal (PHP, JavaScript)
-  * Development and maintenance of iOS, Android & UWP apps for local authority planning (C#, Xamarin, GitLab CI)
-  * Automation of packaging, curation and management of third-party components (Bash, curl, nuget)
+  * Maintenance of education & healthcare web portal _(PHP, JavaScript)_
+  * Development and maintenance of iOS, Android & UWP apps for local authority planning _(C#, Xamarin, GitLab CI)_
+  * Automation of packaging, curation and management of third-party components _(Bash, curl, nuget)_
 * 1997-1999: Sirius Seven
-  * Development of desktop GIS (Geographic Information Systems) software (C++, MFC)
+  * Development of desktop GIS (Geographic Information Systems) software _(C++, MFC)_
 
 ### Personal projects
 * [GitHub](https://github.com/peeveen?tab=repositories)
