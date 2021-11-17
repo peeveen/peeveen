@@ -25,7 +25,7 @@ steven.fullhouse@gmail.com
 
 ### Other information
 * I have been interested in software development since I was a kid, wondering "how does this work?" while playing games on my Atari 2600.
-* I tend to pick up new technologies fairly quickly. I've seen enough over the years to flatten most learning curves.
+* I tend to pick up new technologies fairly quickly. I've seen enough over the years to flatten most learning curves. I may not be au-fait with the exact set of technologies that you use, but I’m pretty confident I can handle it.
 * Lately I have become very interested in CI/CD and automation/streamlining of development processes.
 
 ### Hobbies & Interests
