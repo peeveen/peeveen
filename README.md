@@ -36,4 +36,4 @@ steven.fullhouse@gmail.com
 * Dark rum
 
 ### Social Media
-* [I don't use it](https://www.youtube.com/watch?v=cDGlN6mluGA)
+* [I don't use it](https://www.youtube.com/watch?v=cDGlN6mluGA&autoplay=1)
