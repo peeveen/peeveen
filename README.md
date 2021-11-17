@@ -30,9 +30,9 @@ steven.fullhouse@gmail.com
 
 ### Hobbies & Interests
 * Videogames
-* [WFMU](https://wfmu.org/)
 * Singing/karaoke
 * Playing guitar
+* [WFMU](https://wfmu.org/)
 * Dark rum
 
 ### Social Media
