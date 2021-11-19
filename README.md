@@ -32,6 +32,7 @@ steven.fullhouse@gmail.com
 * Videogames
 * Singing/karaoke
 * Playing guitar
+* Pub quizzes
 * [WFMU](https://wfmu.org/)
 * Dark rum
 
