@@ -5,6 +5,7 @@ steven.fullhouse@gmail.com
 ### Employment
 * 2022-now: [Corporate Modelling Services](https://www.corporatemodelling.com/)
   * Design and implementation of new software and deployment infrastructure _(Kubernetes, Kong, Istio, Keycloak, Prometheus, Grafana, Open Policy Agent, Lua)_
+  * Webservices and webapps for business logic definition and evaluation _(.NET 6, Microsoft Rules Engine, React, Redux-Saga)_
 * 1999-2021: [Idox Software](https://www.idoxgroup.com/)
   * Development of Enterprise-level document management software, built on [OpenText Documentum](https://www.opentext.com/products-and-solutions/products/enterprise-content-management/documentum-platform) and [IBM FileNet](https://www.ibm.com/uk-en/products/filenet-content-manager) _(C#, Java, Ant, Maven)_
   * Integrations with desktop applications such as AutoCAD, MicroStation, and Microsoft Office. _(C#, C, WiX)_
