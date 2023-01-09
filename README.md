@@ -5,7 +5,7 @@ steven.fullhouse@gmail.com
 ### Employment
 * 2022-now: [Corporate Modelling Services](https://www.corporatemodelling.com/)
   * Design and implementation of new software and deployment infrastructure _(Kubernetes, Kong, Istio, Keycloak, Prometheus, Grafana, Open Policy Agent, Lua)_
-  * Common webservice framework design & implementation _(OpenAPI 3, Fastify, JSON Schema)_
+  * Common webservice frameworks, design & implementation _(OpenAPI 3, Fastify, JSON Schema, Python, WSGI)_
   * Webservices and webapps for business logic definition and evaluation _(.NET 6, Microsoft Rules Engine, TypeScript, Jest, React, Redux-Saga)_
   * Creation & deployment of SourceLink proxy for internal GitLab system _(SourceLink, Git Credential Manager)_
 * 1999-2021: [Idox Software](https://www.idoxgroup.com/)
@@ -33,9 +33,9 @@ steven.fullhouse@gmail.com
 * Lately I have become very interested in CI/CD and automation/streamlining of development processes.
 
 ### Hobbies & Interests
-* Videogames
 * Singing/karaoke
 * Playing guitar
+* Videogames
 * Pub quizzes
 * [WFMU](https://wfmu.org/)
 * Dark rum
