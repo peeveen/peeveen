@@ -22,6 +22,7 @@ steven.fullhouse@gmail.com
 ### Personal projects
 * [GitHub](https://github.com/peeveen?tab=repositories)
 * One-time [contributor to MAME](https://wiki.mamedev.org/index.php/MAME_0.34b1)
+* Keen [code-golfer](https://code.golf/golfers/peeveen)
 
 ### Education
 * BSc Software Engineering (Distinction, awarded Court Medal) from University Of Paisley
