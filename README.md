@@ -5,7 +5,7 @@ steven.fullhouse@gmail.com
 ### Employment
 * 2022-now: [Corporate Modelling Services](https://www.corporatemodelling.com/)
   * Design and implementation of new software and deployment infrastructure _(Kubernetes, Kong, Istio, Keycloak, Prometheus, Grafana, Open Policy Agent, Redis, Lua)_
-  * Built-from-scratch CI system for .NET/JS/Gradle projects _(GitLab, Docker, Bash)_
+  * Built-from-scratch CI system for .NET/JS/JVM projects _(GitLab, Docker, Gradle, Maven, Bash)_
   * Standard webservice and library templates for company-wide use _(.NET Templating, OpenTelemetry, OpenAPI 3, Fastify, JSON Schema, Python, WSGI)_
   * A service to execute a user-defined series of "chained" webservice requests _(Go, SQL Server)_
   * Webservices and webapps for business logic definition and evaluation _(.NET 6/7/8, Microsoft Rules Engine, TypeScript, Jest, React, Redux-Saga)_
