@@ -25,8 +25,9 @@ steven.fullhouse@gmail.com
   * Development of desktop GIS (Geographic Information Systems) software _(C++, MFC)_
 
 ### Personal projects
-* [GitHub](https://github.com/peeveen?tab=repositories)
+* [BeatPrompter](https://play.google.com/store/apps/details?id=com.stevenfrew.beatprompter)
 * One-time [contributor to MAME](https://wiki.mamedev.org/index.php/MAME_0.34b1)
+* [My GitHub projects](https://github.com/peeveen?tab=repositories)
 
 ### Education
 * BSc Software Engineering (Distinction, awarded Court Medal) from University Of Paisley
