@@ -39,12 +39,8 @@ steven.fullhouse@gmail.com
 * Lately I have become very interested in CI/CD and automation/streamlining of development processes.
 
 ### Hobbies & Interests
-* Singing/karaoke
-* Playing guitar
-* Videogames
-* Pub quizzes
+* Amateur musician and keen karaoke singer
 * [WFMU](https://wfmu.org/)
-* Dark rum
 
 ### Social Media
 * [I don't use it](https://www.youtube.com/watch?v=cDGlN6mluGA&autoplay=1)
