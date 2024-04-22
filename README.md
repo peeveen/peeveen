@@ -4,11 +4,15 @@ steven.fullhouse@gmail.com
 
 ### Employment
 * 2022-now: [Corporate Modelling Services](https://www.corporatemodelling.com/)
-  * Design and implementation of new software and deployment infrastructure _(Kubernetes, Kong, Istio, Keycloak, Prometheus, Grafana, Open Policy Agent, Lua)_
-  * Common webservice frameworks, design & implementation _(OpenAPI 3, Fastify, JSON Schema, Python, WSGI)_
-  * Webservices and webapps for business logic definition and evaluation _(.NET 6/7, Microsoft Rules Engine, TypeScript, Jest, React, Redux-Saga)_
+  * Design and implementation of new software and deployment infrastructure _(Kubernetes, Kong, Istio, Keycloak, Prometheus, Grafana, Open Policy Agent, Redis, Lua)_
+  * Built-from-scratch CI system for .NET/JS/Gradle projects _(GitLab, Docker, Bash)_
+  * Standard webservice and library templates for company-wide use _(.NET Templating, OpenTelemetry, OpenAPI 3, Fastify, JSON Schema, Python, WSGI)_
+  * Webservices and webapps for business logic definition and evaluation _(.NET 6/7/8, Microsoft Rules Engine, TypeScript, Jest, React, Redux-Saga)_
   * Creation & deployment of SourceLink proxy and symbol server proxy for internal GitLab system _(SourceLink, Git Credential Manager)_
   * Implementation of web dashboards _(Razor, DevExpress)_
+  * Integration between CMS systems and [NICE](https://www.nice.com/products/performance-management/back-office) backoffice software _(C#, Redis, TPL Dataflow, SQL Server)_
+  * Dynamic metrics expression evaluator and alert system _(C#, Roslyn, Redis TimeSeries, Grafana, Microsoft Teams)_
+  * Injectable authentication sidecar framework for Kubernetes _(Kubernetes, Keycloak, Auth0, OpenID Connect)_
 * 1999-2021: [Idox Software](https://www.idoxgroup.com/)
   * Development of Enterprise-level document management software, built on [OpenText Documentum](https://www.opentext.com/products-and-solutions/products/enterprise-content-management/documentum-platform) and [IBM FileNet](https://www.ibm.com/uk-en/products/filenet-content-manager) _(C#, Java, Ant, Maven)_
   * Integrations with desktop applications such as AutoCAD, MicroStation, and Microsoft Office. _(C#, C, WiX)_
