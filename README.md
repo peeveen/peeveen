@@ -24,10 +24,14 @@ steven.fullhouse@gmail.com
 * 1997-1999: Sirius Seven
   * Development of desktop GIS (Geographic Information Systems) software _(C++, MFC)_
 
+### Coding links
+* [My GitHub projects](https://github.com/peeveen?tab=repositories)
+* [Stack Overflow](https://stackoverflow.com/users/10444879/steven-frew)
+* [Code Golf](https://code.golf/golfers/peeveen)
+
 ### Personal projects
 * [BeatPrompter](https://play.google.com/store/apps/details?id=com.stevenfrew.beatprompter)
 * One-time [contributor to MAME](https://wiki.mamedev.org/index.php/MAME_0.34b1)
-* [My GitHub projects](https://github.com/peeveen?tab=repositories)
 
 ### Education
 * BSc Software Engineering (Distinction, awarded Court Medal) from University Of Paisley
