@@ -38,14 +38,14 @@ steven.fullhouse@gmail.com
 * HND Computing
 * 4 Higher grades, 7 Standard grades (including A/1 in mathematics)
 
-### Other information
-* I have been interested in software development since I was a kid, wondering "how does this work?" while playing games on my Atari 2600.
+### Personal statements
+* I have been a professional software developer for approximately 30 years, with an appetite for solving problems and making things work well, with a particular focus on streamlining and automating working practices, and creating re-usable components and projects.
 * I tend to pick up new technologies fairly quickly. I've seen enough over the years to flatten most learning curves. I may not be au-fait with the exact set of technologies that you use, but I’m pretty confident I can handle it.
-* Lately I have become very interested in CI/CD and automation/streamlining of development processes.
+* I have been interested in software development since I was a kid, wondering "how does this work?" while playing games on my Atari 2600.
 
-### Hobbies & Interests
+## Hobbies & Interests
 * Amateur musician
-* Keen karaoke singer
+* Keen karaoke singer and host (using my own [KaraokeManager](https://github.com/peeveen/karaokemanager) software and [display](https://github.com/peeveen/gen_cdgPro) and [audio](https://github.com/peeveen/gen_autoDJ) [plugins](https://github.com/peeveen/gen_singersQueue))
 * [WFMU](https://wfmu.org/) listener
 
 ### Social Media
