@@ -34,7 +34,7 @@ steven.fullhouse@gmail.com
 * One-time [contributor to MAME](https://wiki.mamedev.org/index.php/MAME_0.34b1)
 
 ### Education
-* BSc Software Engineering (Distinction, awarded Court Medal) from University Of Paisley
+* BSc Software Engineering (Distinction, awarded Court Medal) from University Of Paisley (now UWS)
 * HND Computing
 * 4 Higher grades, 7 Standard grades (including A/1 in mathematics)
 
