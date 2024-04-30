@@ -30,7 +30,7 @@ steven.fullhouse@gmail.com
 * [Code Golf](https://code.golf/golfers/peeveen)
 
 ### Personal projects
-* [BeatPrompter](https://play.google.com/store/apps/details?id=com.stevenfrew.beatprompter)
+* [BeatPrompter](https://play.google.com/store/apps/details?id=com.stevenfrew.beatprompter) for Android
 * One-time [contributor to MAME](https://wiki.mamedev.org/index.php/MAME_0.34b1)
 
 ### Education
