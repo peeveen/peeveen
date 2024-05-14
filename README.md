@@ -14,7 +14,7 @@ steven.fullhouse@gmail.com
   * Integration between CMS systems and [NICE](https://www.nice.com/products/performance-management/back-office) backoffice software _(C#, Redis, TPL Dataflow, SQL Server)_
   * Dynamic metrics expression evaluator and alert system _(C#, Roslyn, Redis TimeSeries, Grafana, Microsoft Teams)_
   * Injectable authentication/authorization sidecar framework for Kubernetes _(Kubernetes, Keycloak, Kotlin, Auth0, OpenID Connect, Open Policy Agent)_
-* 1999-2021: [Idox Software](https://www.idoxgroup.com/)
+* 1999-2022: [Idox Software](https://www.idoxgroup.com/)
   * Development of Enterprise-level document management software, built on [OpenText Documentum](https://www.opentext.com/products-and-solutions/products/enterprise-content-management/documentum-platform) and [IBM FileNet](https://www.ibm.com/uk-en/products/filenet-content-manager) _(C#, Java, Ant, Maven)_
   * Integrations with desktop applications such as AutoCAD, MicroStation, and Microsoft Office. _(C#, C, WiX)_
   * Development of prototype in-house document management system & web UI _(Spring, Kotlin, TypeScript, Node.js, React, MinIO, PostgreSQL, GraphQL, Elasticsearch, Docker, Kafka, JOOQ)_
