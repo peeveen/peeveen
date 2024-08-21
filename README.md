@@ -6,9 +6,15 @@ steven.fullhouse@gmail.com
 ### Skills
 
 - Main Languages
-  - C#, TypeScript, Kotlin, Java, Go, JavaScript, Python, C/C++, Assembly
+  - C#, TypeScript, Kotlin, Java, Go, JavaScript, Python, C/C++, and more
 - Frameworks & Technologies
   - ASP.NET, React, Kubernetes, Docker, Git, Node.js, OAuth, SQL, Redis, GitLab, and more
+
+### Personal statements
+
+- I have been a professional software developer for approximately 30 years, with an appetite for solving problems and making things work well, with a particular focus on streamlining and automating working practices, and creating re-usable components and projects.
+- I tend to pick up new technologies fairly quickly. I've seen enough over the years to flatten most learning curves. I may not be au-fait with the exact set of technologies that you use, but I’m pretty confident I can be up to speed within days.
+- I have been interested in software development since I was a kid, wondering "how does this work?" while playing games on my Atari 2600.
 
 ### Employment
 
@@ -37,7 +43,6 @@ steven.fullhouse@gmail.com
 
 - [My GitHub projects](https://github.com/peeveen?tab=repositories)
 - [Stack Overflow](https://stackoverflow.com/users/10444879/steven-frew)
-- [Code Golf](https://code.golf/golfers/peeveen)
 
 ### Personal projects
 
@@ -49,12 +54,6 @@ steven.fullhouse@gmail.com
 - BSc Software Engineering (Distinction, awarded Court Medal) from University Of Paisley (now UWS)
 - HND Computing
 - 4 Higher grades, 7 Standard grades (including A/1 in mathematics)
-
-### Personal statements
-
-- I have been a professional software developer for approximately 30 years, with an appetite for solving problems and making things work well, with a particular focus on streamlining and automating working practices, and creating re-usable components and projects.
-- I tend to pick up new technologies fairly quickly. I've seen enough over the years to flatten most learning curves. I may not be au-fait with the exact set of technologies that you use, but I’m pretty confident I can handle it.
-- I have been interested in software development since I was a kid, wondering "how does this work?" while playing games on my Atari 2600.
 
 ## Hobbies & Interests
 
