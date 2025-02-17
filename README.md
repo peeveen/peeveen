@@ -19,6 +19,7 @@ steven.fullhouse@gmail.com
 ### Employment
 
 - 2022-now: [Corporate Modelling Services](https://www.corporatemodelling.com/)
+  - Email monitoring and redirecting system _(Exchange Web Services, Microsoft Graph)_
   - Design and implementation of new software and deployment infrastructure _(Kubernetes, Kong, Istio, Keycloak, Prometheus, Grafana, Open Policy Agent, Redis, Lua)_
   - Built-from-scratch CI system for .NET/JS/JVM projects _(GitLab, Docker, Gradle, Maven, Bash)_
   - Standard webservice and library templates for company-wide use _(.NET Templating, OpenTelemetry, OpenAPI 3, Fastify, JSON Schema, Python, WSGI)_
