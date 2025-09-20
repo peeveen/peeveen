@@ -18,7 +18,7 @@ steven.fullhouse@gmail.com
 
 ### Employment
 
-- 2022-now: [Corporate Modelling Services](https://www.corporatemodelling.com/)
+- 2022-2025: [Corporate Modelling Services](https://www.corporatemodelling.com/)
   - Investigation of AWS CloudWatch and OpenTelemetry interoperability _(AWS, ECS, CloudWatch, OpenTelemetry)_
   - Email monitoring and redirecting system _(Exchange Web Services, Microsoft Graph)_
   - Design and implementation of new software and deployment infrastructure _(Kubernetes, Kong, Istio, Keycloak, Prometheus, Grafana, Open Policy Agent, Redis, Lua)_
