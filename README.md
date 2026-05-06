@@ -19,7 +19,7 @@ steven.fullhouse@gmail.com
 ### Employment
 
 - 2025-2026: [KPMG](https://kpmg.com/uk/en.html)
-  - Creation of AI agents and UI tools _(C#, Azure, Microsoft Agent Framework)_
+  - Creation of AI agents, frameworks and UI tools _(C#, Azure, Microsoft Agent Framework)_
 - 2022-2025: [Corporate Modelling Services](https://www.corporatemodelling.com/)
   - Investigation of AWS CloudWatch and OpenTelemetry interoperability _(AWS, ECS, CloudWatch, OpenTelemetry)_
   - Email monitoring and redirecting system _(Exchange Web Services, Microsoft Graph)_
