@@ -8,7 +8,7 @@ steven.fullhouse@gmail.com
 - Main Languages
   - C#, TypeScript, Kotlin, Java, Go, JavaScript, Python, C/C++, and more
 - Frameworks & Technologies
-  - ASP.NET, React, Kubernetes, Docker, Git, Node.js, OAuth, SQL, Redis, GitLab, and more
+  - ASP.NET, React, Kubernetes, Azure, Docker, Git, Node.js, OAuth, SQL, Redis, GitLab, and more
 
 ### Personal statements
 
