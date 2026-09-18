@@ -64,7 +64,7 @@ steven.fullhouse@gmail.com
 ## Hobbies & Interests
 
 - Amateur musician
-- Keen karaoke singer and host (using my own [KaraokeManager](https://github.com/peeveen/karaokemanager) software and [display](https://github.com/peeveen/gen_cdgPro) and [audio](https://github.com/peeveen/gen_autoDJ) [plugins](https://github.com/peeveen/gen_singersQueue))
+- Keen karaoke singer and former host (using my own [KaraokeManager](https://github.com/peeveen/karaokemanager) software and [display](https://github.com/peeveen/gen_cdgPro) and [audio](https://github.com/peeveen/gen_autoDJ) [plugins](https://github.com/peeveen/gen_singersQueue))
 - [WFMU](http://wfmu.org/profile/971948337/Frew) listener
 
 ### Social Media
